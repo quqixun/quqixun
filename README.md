@@ -12,12 +12,12 @@
 <table>
 <tbody>
   <tr>
-    <td><img src="./assets/python-logo.png" width=110 style="border-color:#ffffff;text-align:center;vertical-align:center" /></td>
-    <td><img src="./assets/pytorch-logo-dark.png" width=100 style="border-color:#ffffff;text-align:center;vertical-align:center" /></td>
-    <td><img src="./assets/scikit-learn-logo.png" width=80 style="border-color:#ffffff;text-align:center;vertical-align:center" /></td>
-    <td><img src="./assets/LightGBM_logo_black_text.svg" width=100 style="border-color:#ffffff;text-align:center;vertical-align:center" /></td>
-    <td><img src="./assets/xgboost.png" width=80 style="border-color:#ffffff;text-align:center;vertical-align:center" /></td>
-    <td><img src="./assets/ubuntu-black-and-orange-on-white.gif" width=110 style="border-color:#ffffff;text-align:center;vertical-align:center" /></td>
+    <td><img src="./assets/python-logo.png" width=90 style="text-align:center;vertical-align:center" /></td>
+    <td><img src="./assets/pytorch-logo-dark.png" width=80 style="text-align:center;vertical-align:center" /></td>
+    <td><img src="./assets/scikit-learn-logo.png" width=50 style="text-align:center;vertical-align:center" /></td>
+    <td><img src="./assets/LightGBM_logo_black_text.svg" width=70 style="text-align:center;vertical-align:center" /></td>
+    <td><img src="./assets/xgboost.png" width=50 style="text-align:center;vertical-align:center" /></td>
+    <td><img src="./assets/ubuntu-black-and-orange-on-white.gif" width=80 style="text-align:center;vertical-align:center" /></td>
   </tr>
 </tbody>
 </table>
