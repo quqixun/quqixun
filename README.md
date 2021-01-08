@@ -4,7 +4,6 @@
 
 <br/>
 
-About me:
 - :sparkles: Knowledge: Machine Learning, Deep Learning, Image and Signal Analysis, Time Series Forecasting
 - :heartbeat: Enjoy: Solving problems skillfuly, Trying new things and Reading science fiction
 - :gift: Goal: Work at home as an independent AI developer accompanied by a fat cat
