@@ -2,18 +2,14 @@
 
 <img align="left" src="https://komarev.com/ghpvc/?username=quqixun" />
 
-<br/><br/>
+<br/>
 
 About me:
 - :sparkles: Knowledge: Machine Learning, Deep Learning, Image and Signal Analysis, Time Series Forecasting
 - :heartbeat: Enjoy: Solving problems skillfuly, Trying new things and Reading science fiction
 - :gift: Goal: Work at home as an independent AI developer accompanied by a fat cat
 
-<br/>
-
 **Languages and Tools:**
-
-
 <table>
 <tbody>
   <tr>
@@ -26,8 +22,6 @@ About me:
   </tr>
 </tbody>
 </table>
-
-<br/>
 
 ![](https://github-readme-stats-ws1mnpqtj.vercel.app/api?username=quqixun&count_private=true&show_icons=true&hide_rank=false&hide_border=true&include_all_commits=true&theme=default)![](https://github-readme-stats-ws1mnpqtj.vercel.app/api/top-langs/?username=quqixun&hide=cuda,c%2B%2B&layout=compact&hide_border=true)
 
