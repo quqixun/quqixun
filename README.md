@@ -1,8 +1,8 @@
 ### Call me Panda Man :panda_face: !  <img src="https://komarev.com/ghpvc/?username=quqixun" />
 
-- :sparkles: Knowledge: Machine Learning, Deep Learning, Image and Signal Analysis, Time Series Forecasting
-- :heartbeat: Enjoy: Solving problems skillfuly, Trying new things and Reading science fiction
-- :gift: Goal: Work at home as an independent AI developer accompanied by a fat cat
+- :sparkles: Knowledge: Machine Learning, Deep Learning, Image and Signal Analysis, Time Series Forecasting and Acting Cute
+- :heartbeat: Enjoy: Solving problems skillfuly, Trying new things, Reading science fiction, Sleeping and Eating
+- :gift: Goal: Work at home as an independent AI developer accompanied by fresh bamboo
 
 **Languages and Tools:**
 <table>
