@@ -1,4 +1,4 @@
-### Call me Panda Man :panda_face: !  <img src="https://komarev.com/ghpvc/?username=quqixun" />
+### Here is Comrade Panda :panda_face: !  <img src="https://komarev.com/ghpvc/?username=quqixun" />
 
 - :sparkles: Knowledge: Machine Learning, Deep Learning, Image and Signal Analysis, Time Series Forecasting and Acting Cute
 - :heartbeat: Enjoy: Solving problems skillfuly, Trying new things, Reading science fiction, Sleeping and Eating
