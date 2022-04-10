@@ -18,4 +18,4 @@
 </tbody>
 </table>
 
-![](https://github-readme-stats.vercel.app/api?username=quqixun&count_private=true&show_icons=true&hide_rank=false&hide_border=true&include_all_commits=true&theme=default)![](https://github-readme-stats.vercel.app/api/top-langs/?username=quqixun&hide=cuda,c,java,dart,haskell,css,%2B%2B&layout=compact&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=quqixun&count_private=true&show_icons=true&hide_rank=false&hide_border=true&include_all_commits=true&theme=default)![](https://github-readme-stats.vercel.app/api/top-langs/?username=quqixun&hide=cuda,c,java,dart,haskell,css,html,%2B%2B&layout=compact&hide_border=true)
