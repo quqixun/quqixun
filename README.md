@@ -16,6 +16,7 @@
 **Learning:**
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-darkgreen?style=for-the-badge&logo=nvidia)
 
 ![](https://github-readme-stats-quqixun.vercel.app/api?username=quqixun&count_private=true&show_icons=true&hide_rank=false&hide_border=true&include_all_commits=true&theme=default)
-![](https://github-readme-stats-quqixun.vercel.app/api/top-langs/?username=quqixun&hide=go,cuda,c,java,dart,haskell,css,html,objective-c,shell,c%2B%2B,yacc,makefile,roff,lex,c%23,dockerfile&layout=compact&hide_border=true)
+![](https://github-readme-stats-quqixun.vercel.app/api/top-langs/?username=quqixun&hide=go,c,java,dart,haskell,css,html,objective-c,shell,c%2B%2B,yacc,makefile,roff,lex,c%23,dockerfile&layout=compact&hide_border=true)
